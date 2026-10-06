@@ -23,7 +23,6 @@
 ##  How to run the development server.
 ### Look in the package.json see what is listed under scripts for vite it is dev, so your command is "npm run dev".  Run it in your terminal and keep it running to watch updates in realtime.
 
-#Hello World
 
 
 
